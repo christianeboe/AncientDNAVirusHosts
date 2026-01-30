@@ -1,6 +1,6 @@
 This repository contains the code and data required to reproduce all analyses and figures presented in the manuscript:
 Boeckel, C., Lisovski, S., Stoof-Leichsenring, K. R., Weiß, J. F., Liu, S., Harms, L., & Herzschuh, U.
-DNA virus–host patterns in lake and marine environments over the last glacial cycle. (submitted)
+DNA virus–host patterns in lake and marine environments over the last glacial cycle.
 The repository includes all scripts used for statistical analyses and figure generation, as well as the processed datasets necessary to run these workflows.
 
 ## Data availability
